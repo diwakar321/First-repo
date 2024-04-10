@@ -1,3 +1,3 @@
 # First-repo
 My First Repository
-Author: Diwakar Singh
+Author: Diwakar Singh (Raja)
